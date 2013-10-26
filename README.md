@@ -3,7 +3,7 @@
 This should be fun  !!!!
 
 Adding a couple of more links 
-[where to go for sushi] (www.yahoo.co.jp)
+[where to go for sushi] (http://www.yahoo.co.jp)
 
 [*degica forever*] (http://www.degica.com)
 

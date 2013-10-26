@@ -7,5 +7,8 @@ Adding a couple of more links
 
 [*degica forever*] (http://www.degica.com)
 
-by [Im the wolfpack leader]  (http://www.yeticycles.com)
+by [Im the wolfpack leader] (http://www.yeticycles.com)
+
+
+Where do I go biking? ?
 

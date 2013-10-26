@@ -1,8 +1,8 @@
-# One Month Rails
+# Learning Rails and programming #
 
-This is the craziest shit im doing on a Saturday
+This should be fun  !!!!
 
 [*degica forever*] (http://www.degica.com)
 
-by [Jack Momose]  (wwww.yeticycles.com)
+by [Im the wolfpack leader]  (wwww.yeticycles.com)
 
